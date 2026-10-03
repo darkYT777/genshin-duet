@@ -9,6 +9,7 @@ DUET 22 이상은 앱의 ‘업데이트’에서 새 버전을 받을 수 있�
 
 ## DUET 26
 
+- 여러 트랙 오버레이 표시와 입력 검사 최적화. 화면을 재사용하며 2줄 악기를 직접 고르면 배치를 유지하고 3줄 악보의 현재 화음 색상 강조를 유지합니다.
 - 앱 안에서 버전별 패치노트 보기. 업데이트 화면과 설정 → 앱 업데이트에서 열며 최신 버전이어도 읽을 수 있습니다. 불러온 기록은 오프라인에서도 보관하고 업데이트 설치 뒤 새 내용을 엽니다.
 - 기존 하프를 포함한 9가지 악기 소리: Floral Zither, Nightwind Horn, Harmonic Keys, Vintage Lyre, Ukulele, Lingering Euphonia, Leaping Spirit Piano, Vodyanitsa. 미리듣기와 앱 반주에서 트랙의 악기를 자동으로 선택하거나 음색을 직접 고릅니다.
 - 여러 악기를 섞어 재생할 때 활성 음만 계산합니다. 8악기 출력 검사에서 버퍼 끊김 0회를 확인했습니다. 사람의 청취에 따른 음질 평가는 별도입니다.
@@ -46,4 +47,3 @@ DUET 22 이상은 앱의 ‘업데이트’에서 새 버전을 받을 수 있�
 공개 배포에는 개인 설정과 악보를 포함하지 않습니다. 악보는 직접 불러오거나 합주방에서 받습니다.
 
 음원: [StarryCosmosPiano SoundFont](https://github.com/StarryCosmosPiano/Genshin-Impact-Instrument-SoundFont). 원본 오디오 권리자: HoYoverse / miHoYo.
-
